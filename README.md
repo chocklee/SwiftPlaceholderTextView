@@ -1,0 +1,2 @@
+# SwiftPlaceholderTextView
+Swift版的带placeholder的TextView
